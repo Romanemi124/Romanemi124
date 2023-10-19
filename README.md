@@ -1,4 +1,4 @@
-![fondoGit](https://github.com/Romanemi124/Emilio-Roman/assets/102904774/6a141988-1ca9-4b17-9d81-bc35b127b790)
+![fondoGit](https://github.com/Romanemi124/Romanemi124/assets/102904774/a3c42121-1385-464b-9f29-7ce59179368c)
 
 # 👋 Bienvenido a mi repositorio
 👨‍💻 Soy un desarrollador de aplicaciones multiplataforma y estudiante de ingeniería informática, aquí podrás ver algunos de mis proyectos realizados durante mi formación en distintas plataformas como Xcode, Java, etc.
