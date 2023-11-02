@@ -47,3 +47,9 @@ SetApp resuelve el principal problema que tiene la gente a la hora de buscar alg
 <img src="https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white" /> <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" /> <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" /> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /> <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" /> <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /> <img src="ttps://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 
 ![Emilio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Romanemi124&show_icons=true&theme=radical)
+
+## 🎨 Recursos que uso para mi readmi :
+
+* Badges : https://github.com/alexandresanlim/Badges4-README.md-Profile#how-to-use
+* Emojis : https://www.webfx.com/tools/emoji-cheat-sheet/
+* Stats : https://github.com/anuraghazra/github-readme-stats
