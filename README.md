@@ -48,7 +48,7 @@ SetApp resuelve el principal problema que tiene la gente a la hora de buscar alg
 
 ![Emilio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Romanemi124&show_icons=true&theme=radical)
 
-## 🎨 Recursos que uso para mi readmi :
+## 🎨 Recursos que uso para mi readme :
 
 * Badges : https://github.com/alexandresanlim/Badges4-README.md-Profile#how-to-use
 * Emojis : https://www.webfx.com/tools/emoji-cheat-sheet/
